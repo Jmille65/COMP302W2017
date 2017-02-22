@@ -1,0 +1,22 @@
+Prakash Panangaden
+cs.mcgill.ca/~prakash/Courses/302/comp302.html
+Office hours: TR 1-2:30, 105N McConnell
+5 assignments, 40% total
+1 in-class midterm, 10%, Feb 21
+
+Functional programming
+key component is something called a function
+building large programs by putting together small ones
+higher order, polymorphically typed
+can't take a variable and update it
+
+Imperative programming
+allows updates
+
+OOP
+inheritance and subtyping
+
+Stream programming
+infinite data structures
+
+Concurrent programming
